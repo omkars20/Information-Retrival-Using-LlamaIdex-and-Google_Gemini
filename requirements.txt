@@ -1,0 +1,13 @@
+llama-index
+# llama-index==0.9.48
+google-generativeai
+llama-index-llms-gemini
+pypdf
+docx2txt
+python-dotenv
+IPython
+llama-index-embeddings-gemini
+streamlit
+llama-index-readers-web
+
+#-e .
